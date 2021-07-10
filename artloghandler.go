@@ -1,10 +1,9 @@
 package artloghandler
 
-
 import (
-"fmt"
-logger "github.com/apresfiux/artlogger"
-"os"
+	"fmt"
+	logger "github.com/apresfiux/artlogger"
+	"os"
 )
 
 // LogError log errors
