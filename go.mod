@@ -1,4 +1,4 @@
-module artloghandler
+module github.com/apresfiux/artloghandler
 
 go 1.16
 
